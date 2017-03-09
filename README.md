@@ -1,2 +1,2 @@
 # iflogo
-### [luan-s.github.io/iflogo](http://luan-s.github.io/iflogo/)
+### [luanjs.github.io/iflogo](http://luanjs.github.io/iflogo/)
